@@ -5,7 +5,7 @@ body {
     font-family: 'SUITE', sans-serif;
     margin: 0;
     
-    padding: 200px 0; 
+    padding: 100px 0; 
     
     background-color: #f8f9fa; 
     color: #343a40; 
@@ -156,3 +156,4 @@ li::before {
         font-size: 0.85rem;
     }
 }
+
