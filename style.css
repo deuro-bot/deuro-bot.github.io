@@ -81,7 +81,7 @@ li::before {
     font-size: 1.5em;
     position: absolute;
     left: 0;
-    top: -2px;
+    top: -7px;
 }
 
 .sub-text {
@@ -156,4 +156,5 @@ li::before {
         font-size: 0.85rem;
     }
 }
+
 
